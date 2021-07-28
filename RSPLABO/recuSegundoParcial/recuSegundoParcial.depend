@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1627510917 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"parser.h"
+
+1627510935 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\controller.h
+	"LinkedList.h"
+	"Bicicletas.h"
+	"utn.h"
+
+1627511050 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\linkedlist.h
+
+1627089918 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\employee.h
+
+1625953601 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\utn.h
+
+1627505191 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\parser.h
+	"Controller.h"
+
+1627361131 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1627511021 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Bicicletas.h"
+	"parser.h"
+	"utn.h"
+
+1627511044 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1627505653 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+
+1627468013 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1627475098 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\pais.h
+
+1627475872 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+
+1627510883 c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\bicicletas.h
+
+1627511097 source:c:\users\ryzen 20\desktop\rsplabo\recusegundoparcial\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicletas.h"
+
